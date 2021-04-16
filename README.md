@@ -12,6 +12,35 @@
 
 **Frontend styling Frameworks I know** : HTML-CSS(Styling languages not frameworks), Angular JS, somewhat React Js
 
+**Goals for this year 🥅:**
+  - [x] Use VM's
+  - [ ] Contribute in Ethical Hacking
+  - [ ] Learn Lua 📝
+  - [ ] Make a game with Unity 🎮
+  - [ ] Do some GBA programming 🎮
+  - [ ] Learn Rust 📝
+  - [ ] Try out MetsploitableOS 💻
+  - [ ] Install UBUNTU 🕶️
+
+**Tools I use:**
+  - **Distro:** Debian 💻
+  - **WM:**  Awesome
+  - **Text Editor:** Vim, Vscode 
+
+
+<details>
+  <summary> Hobbies 🎮 </summary>
+  <br/>
+  <p align='center'> -> Programming, playing cricket and occasionally reading some books </p>
+</details>
+
+<details>
+  <summary> Fonts I like 🖋️ </summary>
+  <br/>
+  <p align='center'> -> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Kungfont, Segoe Script & Segoe Print </p>
+</details>
+
+
 <details>
   <summary> I have done numerous projects using Python including: </summary>
   <br/>
@@ -33,7 +62,16 @@
 
 <details>
   <summary> I have contributed in the following open-source projects: <summary>
-  - [Pytest](github.com/pytest-dev/pytest)
-  - [Engrafa:Yaguide](github.com/engrafa/)
+  <p> 
+    - Pytest
+    - Engrafa:YAguide
+    Check both of them on github
+  <p>
+</details>
+    
+<details>
+  <summary> Profile Stats </summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Skul9&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
 </details>
 Happy coding!
