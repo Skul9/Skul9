@@ -61,14 +61,15 @@
 </details>
 
 <details>
-  <summary> I have contributed in the following open-source projects: <summary>
+  <summary> I have contributed in open-source projects like: </summary>
   <br/>
-  <p> 
-    - Pytest
-    - Engrafa:YAguide
-    Check both of them on github
   <p>
-</details>
+    Pytest
+    
+    Engrafa
+    
+    Check out bothof them on GitHub
+  </p>
     
 <details>
   <summary> Profile Stats </summary>
