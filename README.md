@@ -16,7 +16,7 @@
   - [ ] Contribute in Ethical Hacking
   - [ ] Learn Lua 📝
   - [ ] Make a game with Unity 🎮
-  - [ ] Do some GBA programming 🎮
+  - [ ] Do some Game development 🎮
   - [ ] Learn Rust 📝
   - [ ] Try out MetsploitableOS 💻
   - [ ] Install UBUNTU 🕶️
