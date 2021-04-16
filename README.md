@@ -4,6 +4,11 @@
 
 <h3 align='center'>I am a programmer like you.</h3>
 
+### About me:
+- 🌱 I am currently working on the backend of Engrafa
+- 💬 Ask me about **Python**
+- 📫 You can contact me on **Discord**, *Sk9Programmer#9673*
+
 **Languages in which I master** : Python
 
 **Languages I somewhat know**: Golang, C++, JavaSctipt
