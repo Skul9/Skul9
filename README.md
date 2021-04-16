@@ -32,9 +32,7 @@
 </details>
 
 <details>
-  
   <summary> I have contributed in the following open-source projects: <summary>
-
   - [Pytest](github.com/pytest-dev/pytest)
   - [Engrafa:Yaguide](github.com/engrafa/)
 </details>
