@@ -8,14 +8,10 @@
 - 🌱 I am currently working on the backend of Engrafa
 - 💬 Ask me about **Python**
 - 📫 You can contact me on **Discord**, *Sk9Programmer#9673*
-
-**Languages in which I master** : Python
-
-**Languages I somewhat know**: Golang, C++, JavaSctipt
-
-**Languages I wanna learn** : Lua, Rust, Dart(Flutter), Kotlin, Java, C
-
-**Frontend styling Frameworks I know** : HTML-CSS(Styling languages not frameworks), Angular JS, somewhat React Js
+- **Languages in which I master** : Python
+- **Languages I somewhat know**: Golang, C++, JavaSctipt
+- **Languages I wanna learn** : Lua, Rust, Dart(Flutter), Kotlin, Java, C
+- **Frontend styling Frameworks I know** : HTML-CSS(Styling languages not frameworks), Angular JS, somewhat React Js
 
 **Goals for this year 🥅:**
   - [x] Use VM's
