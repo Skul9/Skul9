@@ -68,6 +68,7 @@
     Engrafa:Yaguide. 
     Check out both of them on GitHub
   </p>
+</details>
     
 <details>
   <summary> Profile Stats </summary>
