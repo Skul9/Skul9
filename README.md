@@ -62,6 +62,7 @@
 
 <details>
   <summary> I have contributed in the following open-source projects: <summary>
+  <br/>
   <p> 
     - Pytest
     - Engrafa:YAguide
