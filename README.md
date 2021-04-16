@@ -7,7 +7,7 @@
 - 💬 Ask me about **Python**
 - 📫 You can contact me on **Discord**, *Sk9Programmer#9673*
 - **Languages in which I master** : Python
-- **Languages I somewhat know**: Golang, C++, JavaSctipt
+- **Languages I somewhat know**: Golang, C++, JavaScript
 - **Languages I wanna learn** : Lua, Rust, Dart(Flutter), Kotlin, Java, C
 - **Frontend styling Frameworks I know** : HTML-CSS(Styling languages not frameworks), Angular JS, somewhat React Js
 
