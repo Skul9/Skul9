@@ -1,8 +1,6 @@
-<h3 align='center'>Namaste Fellow Devs! 👋</h3>
-
-<h3 align='center'>This is Sk9</h3>
-
-<h3 align='center'>I am a programmer like you.</h3>
+<h3 align='center'>Namaste Fellow Devs! I am Sk9👋</h3>
+<p align='center'><img align='center' width='360px' src='code.png'></img></p>
+<hr/>
 
 ### About me:
 - 🌱 I am currently working on the backend of Engrafa
