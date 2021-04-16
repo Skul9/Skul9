@@ -64,11 +64,9 @@
   <summary> I have contributed in open-source projects like: </summary>
   <br/>
   <p>
-    Pytest
-    
-    Engrafa
-    
-    Check out bothof them on GitHub
+    Pytest,
+    Engrafa:Yaguide. 
+    Check out both of them on GitHub
   </p>
     
 <details>
