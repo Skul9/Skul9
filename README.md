@@ -57,14 +57,7 @@
   - Malware
   </p>
 </details>
-<details>
-  <summary> I have done projects using Rust including: </summary>
-  <br/>
-  <p>
-  - Python interpreter
-  - Flappy bird pattern printer
-  </p>
-</details>
+
 
 <details>
   <summary> I have contributed in open-source projects like: </summary>
