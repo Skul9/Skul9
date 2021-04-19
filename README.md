@@ -8,7 +8,7 @@
 - 📫 You can contact me on **Discord**, *Sk9Programmer#9673*
 - **Languages in which I master** : Python
 - **Languages I somewhat know**: Golang, JavaScript
-- **Languages I wanna learn** : Lua, Rust, Dart(Flutter), Kotlin, Java, C, , C++,
+- **Languages I wanna learn** : Lua, Dart(Flutter), Kotlin, Java, C, , C++,
 - **Frontend styling Frameworks I know** : HTML-CSS(Styling languages not frameworks), Angular JS, somewhat React Js
 
 **Goals for this year 🥅:**
@@ -17,7 +17,7 @@
   - [ ] Learn Lua 📝
   - [ ] Make a game with Unity 🎮
   - [ ] Do some Game development 🎮
-  - [ ] Learn Rust 📝
+  - [ ] Learn Java 📝
   - [ ] Try out MetsploitableOS 💻
   - [ ] Install UBUNTU 🕶️
 
@@ -51,11 +51,18 @@
   - AI Chatbot
   - Machine learning models
   - GUI chat application
-  - Python interpreter
   - Web Scraping
   - GUI music players
   - Mac Address changer
   - Malware
+  </p>
+</details>
+<details>
+  <summary> I have done projects using Rust including: </summary>
+  <br/>
+  <p>
+  - Python interpreter
+  - Flappy bird pattern printer
   </p>
 </details>
 
