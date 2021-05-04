@@ -1,5 +1,5 @@
 <h3 align='center'>Namaste Fellow Devs! I am Sk9👋</h3>
-<p align='center'><img align='center' width='360px' src='code.png'></img></p>
+<p align='center'><img align='center' width='360px' src='carbon.png'></img></p>
 <hr/>
 
 ### About me:
