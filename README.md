@@ -10,6 +10,7 @@
 - **Languages I somewhat know**: Golang, JavaScript
 - **Languages I wanna learn** : Lua, Dart(Flutter), Kotlin, Java, C, , C++,
 - **Frontend styling Frameworks I know** : HTML-CSS(Styling languages not frameworks), Angular JS, somewhat React Js
+- **Sub to my [YT channel](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 **Goals for this year 🥅:**
   - [x] Use VM's
