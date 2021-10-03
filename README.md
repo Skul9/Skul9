@@ -69,7 +69,15 @@
     Check out both of them on GitHub
   </p>
 </details>
-    
+
+<details>
+  <summary> I have worked for </summary>
+  <br/>
+  <p>
+   [**Socialmask**]('https://socialmask.co.in/')
+  </p>
+</details>
+
 <details>
   <summary> Profile Stats </summary>
   <br/>
