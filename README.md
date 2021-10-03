@@ -74,7 +74,7 @@
   <summary> I have worked for </summary>
   <br/>
   <p>
-   [**Socialmask**]('https://socialmask.co.in/')
+   SocialMask
   </p>
 </details>
 
